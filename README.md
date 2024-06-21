@@ -15,11 +15,11 @@
 </p>
 
 <p align="left">
- 🦎
+ 👤
 • @dinhonuneslc
 </p>
 
 <p align="left">
   <a href="https://instagram.com/dinhonuneslc" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dinhonuneslc/"/></a>
 </p>
