@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Dinho</h1>
 <h3 align="center">Desenvolvedor e Instrutor.</h3>
 
-<img src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.imghippo.com/files/Qvj3260Lw.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
 <code><img title="Atom" alt="Atom" width="20" src="https://raw.githubusercontent.com/DinhoNunesLC/DinhoNunesLC/main/img/Atom.png"></code>
